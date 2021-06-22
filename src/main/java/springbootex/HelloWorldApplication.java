@@ -17,7 +17,7 @@ import org.springframework.context.annotation.Bean;
 // @SpringBootApplication
 // @SpringBootConfiguration (alias for @Configuration)
 // @ComponentScan
-// @AutoConfiguration 포함 메타 어노테이션
+// @EnableAutoConfiguration 포함 메타 어노테이션
 
 @SpringBootApplication
 public class HelloWorldApplication {
